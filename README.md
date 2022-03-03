@@ -35,4 +35,13 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/aazeem7
+[website]: https://linkedin.com/aazeem7
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/#
+[youtube]: https://youtube.com/#
+[instagram]: https://instagram.com/#
+[linkedin]: https://linkedin.com/in/#
+[webdevplaylist]: https://www.youtube.com/#
+[jsplaylist]: https://www.youtube.com/#
+[cssplaylist]: https://www.youtube.com/#
+[reactplaylist]: https://www.youtube.com/#
