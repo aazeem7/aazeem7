@@ -3,9 +3,9 @@
 ## I'm a Full Stack Developer and UI/UX Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I'm current working on Kotlin and React with Typescript
+- 👯 I'm currently working on Kotlin and React with Typescript
 - 🥅 2022 Goals: Learn more about web3 and NFTs
-- ⚡ Fun fact: I love to draw and do experiments which my code.
+- ⚡ Fun fact: I love to draw and do experiment with my code.
 
 ### Connect with me:
 
